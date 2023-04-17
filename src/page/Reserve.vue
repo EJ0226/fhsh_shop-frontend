@@ -11,10 +11,6 @@ const Orders = [
   <div>
     <div class="w-full h-[6vw] bg-[#F28383] flex items-center">
       <button @click="gotoadminfrontpage">
-        <img
-          src="../assets/arrow-left-solid.svg"
-          class="w-[3vw] h-[3vw] ml-[1vw]"
-        />
       </button>
       <p class="font-thin text-[3vw] ml-[36vw]">商品預約情況</p>
     </div>
