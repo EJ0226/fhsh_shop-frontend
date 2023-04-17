@@ -14,10 +14,7 @@
               id="email"
             />
 
-            <img
-              src="../assets/CherryBlossoms.png"
-              class="w-[3vw] h-[3vw] absolute ml-[18.6vw] mt-[0.6vw]"
-            />
+          
           </label>
 
           <div>
