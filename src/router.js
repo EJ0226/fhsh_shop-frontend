@@ -2,8 +2,8 @@ import { createRouter, createWebHashHistory } from "vue-router";
 
 import admin from "./page/Admin.vue";
 import login from "./page/Login.vue";
-import edit from "./page/edit.vue";
-import create from "./page/create.vue";
+import edit from "./page/Edit.vue";
+import create from "./page/Create.vue";
 import hint from "./page/Hint.vue";
 import material from "./page/Material.vue";
 import regist from "./page/Regist.vue";
