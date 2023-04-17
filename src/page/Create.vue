@@ -1,7 +1,7 @@
 <script setup>
 import { reactive } from "vue";
 
-import { uploadProd } from "../api.js";
+
 
 const formData = reactive({
   Name: "",
