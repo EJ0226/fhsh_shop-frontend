@@ -29,18 +29,7 @@
                 class="absolute ml-[-3.3vw] mt-[0.5vw]"
                 @click="togglePassword"
               >
-                <img
-                  src="../assets/CherryBlossomSeeds.png"
-                  alt="password visibility toggle"
-                  class="w-[2vw] h-[3vw]"
-                  :class="{ hidden: showPassword }"
-                />
-                <img
-                  src="../assets/CherryBlossoms.png"
-                  alt="password visibility toggle"
-                  class="w-[3vw] h-[3vw]"
-                  :class="{ hidden: !showPassword }"
-                />
+
               </button>
             </label>
           </div>
